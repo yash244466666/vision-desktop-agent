@@ -1,0 +1,7 @@
+{
+  "uuid": "screenshotService@hermes",
+  "name": "Screenshot Service for Vision Agent",
+  "description": "Provides a DBus method to take screenshots from inside the GNOME compositor — the only reliable way on GNOME Wayland",
+  "version": 5,
+  "shell-version": ["49"]
+}

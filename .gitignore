@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+.eggs/
+dist/
+build/
+/templates/
+*.png
+*.jpg
+*.ogg
+*.mp4

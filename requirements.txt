@@ -1,0 +1,8 @@
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Optional — for OCR-based element location
+easyocr>=1.7.0
+
+# Optional — for template matching
+opencv-python-headless>=4.8.0
